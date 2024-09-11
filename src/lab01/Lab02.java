@@ -42,6 +42,7 @@ public class Lab02 {
 			else 
 			{
 				System.out.println("Incorrect!");
+				System.out.println("Correct answer: " + SHORT_NAMES[y]);
 				System.out.println("Total score: " + total);
 				z++;
 			}
