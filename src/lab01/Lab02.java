@@ -47,13 +47,5 @@ public class Lab02 {
 				z++;
 			}
 		}
-		
-		
-		
 	}
-	
-	
-	
-	
-
 }
