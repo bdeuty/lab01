@@ -7,6 +7,7 @@ public class Lab02 {
 		{ "A","R", "N", "D", "C", "Q", "E", 
 		"G",  "H", "I", "L", "K", "M", "F", 
 		"P", "S", "T", "W", "Y", "V" };
+	
 	public static String[] FULL_NAMES = 
 		{
 		"alanine","arginine", "asparagine", 
